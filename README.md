@@ -23,7 +23,7 @@ Use Redux for implementation.
 
 Clone code from below link to your local system.
 
-[Task by Appiness Interactive](https://github.com/jaysingh-stpl/task-commerce-pundit.git)
+[Task by Appiness Interactive](https://github.com/Im-Goutham/appiness_challenge)
 
 ## Installation
 
